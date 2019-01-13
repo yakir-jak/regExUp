@@ -22,7 +22,7 @@ PS3="choose what you want to do :"
 
 #####
 # 
-#  TO DO : *finish in line 44-45
+#  TO DO : 
 #          *PUT COMMANDS !!! 
 #
 ####
